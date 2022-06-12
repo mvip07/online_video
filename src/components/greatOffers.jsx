@@ -5,7 +5,7 @@ const GreatOffers = () => {
     const [owlStageLoad, setOwlStageLoad] = useState(true)
 
 
-    if (owlStageLoad == true) {
+    if (owlStageLoad === true) {
         setTimeout(() => {
             setOwlStage(owlStage + 270)
             if (owlStage >= 2700) setOwlStage(0)

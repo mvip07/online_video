@@ -77,7 +77,7 @@ const Contact = () => {
                         <div className="row gx-0">
                             <div className="col-lg-12">
                                 <div className="conatct-map">
-                                    <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d779.0962574121864!2d69.21499553102541!3d41.32860295455919!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sru!2s!4v1654970322686!5m2!1sru!2s" style={{ border: "0" }} allowFullScreen="" loading="lazy"></iframe>"
+                                    <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d779.0962574121864!2d69.21499553102541!3d41.32860295455919!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sru!2s!4v1654970322686!5m2!1sru!2s" title="G'uncha"></iframe>
                                 </div>
                             </div>
                         </div>
